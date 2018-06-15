@@ -8,7 +8,7 @@ Programación de la Hercules RM57L843 LauchPad con el compilador Code Composer S
 
 ***
 **Listado de material disponible:**
-- MSP-EXP430F5529_001: Basic GIO test - Blink LED
+- RM57L843_001: Basic GIO test - Blink LED
 
 ***
 Puedes seguirme en:
